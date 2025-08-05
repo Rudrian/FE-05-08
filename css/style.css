@@ -38,7 +38,6 @@ header {
     text-align: left;
 }
 
-/* Menu */
 .menu {
     display: flex;
     flex-direction: row;
@@ -55,13 +54,6 @@ header {
     transition-duration: 1.5s;
     text-decoration-line: underline;
     color: yellow;
-}
-
-/* Botões */
-.auth-buttons {
-    display: flex;
-    gap: 10px;
-    align-items: center;
 }
 
 .login {
@@ -81,7 +73,6 @@ header {
     font-size: larger;
 }
 
-/* Conteúdo principal */
 .conteudo-principal {
     display: flex;
     align-items: center;
