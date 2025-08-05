@@ -41,7 +41,7 @@ header {
 .menu {
     display: flex;
     flex-direction: row;
-    gap: 10px;
+    gap: 35px;
 }
 
 .menu li a {
